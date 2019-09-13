@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<StackXXL.XLSize.Title>Multiplicateur XL</StackXXL.XLSize.Title>
+	<StackXXL.XLSize.Desc>Multiplicateur XL(Par défaut: x10), pas nécessairement entier</StackXXL.XLSize.Desc>
+	<StackXXL.XXLSize.Title>Multiplicateur XXL</StackXXL.XXLSize.Title>
+	<StackXXL.XXLSize.Desc>Multiplicateur XXL(Par défaut: x20), pas nécessairement entier</StackXXL.XXLSize.Desc>
+	<StackXXL.Size.Default>Par défaut</StackXXL.Size.Default>
+	<StackXXL.Size.XL>XL</StackXXL.Size.XL>
+	<StackXXL.Size.XXL>XXL</StackXXL.Size.XXL>
+	<StackXXL.DebugMode.Title>Mode débogage</StackXXL.DebugMode.Title>
+	<StackXXL.DebugMode.Desc>Active la journalisation détaillée.</StackXXL.DebugMode.Desc>
+	
+	<StackXXL.Stack.Resources.Title>Ressources</StackXXL.Stack.Resources.Title>
+	<StackXXL.Stack.Resources.Desc>Matières premières, médicaments, blocs de pierre, composants, obus, carburant, neutroamine, etc.
+</StackXXL.Stack.Resources.Desc>
+
+	<StackXXL.Stack.Silver.Title>Argent</StackXXL.Stack.Silver.Title>
+	<StackXXL.Stack.Silver.Desc>Utilisé à la fois comme ressource brute et comme monnaie du jeu.</StackXXL.Stack.Silver.Desc>
+	
+	<StackXXL.Stack.Textiles.Title>Textiles</StackXXL.Stack.Textiles.Title>
+	<StackXXL.Stack.Textiles.Desc>Textiles et cuirs</StackXXL.Stack.Textiles.Desc>
+
+	<StackXXL.Stack.Drugs.Title>Drogues</StackXXL.Stack.Drugs.Title>
+	<StackXXL.Stack.Drugs.Desc>Toutes les drogues et la bière.</StackXXL.Stack.Drugs.Desc>
+	
+	<StackXXL.Stack.Meat.Title>Viande</StackXXL.Stack.Meat.Title>
+	<StackXXL.Stack.Meat.Desc>Viande crue</StackXXL.Stack.Meat.Desc>
+	
+	<StackXXL.Stack.Raw.Title>Nourriture crue</StackXXL.Stack.Raw.Title>
+	<StackXXL.Stack.Raw.Desc>Légumes crues, œufs, gelée, feuilles, etc.</StackXXL.Stack.Raw.Desc>
+	
+	<StackXXL.Stack.Meals.Title>Repas</StackXXL.Stack.Meals.Title>
+	<StackXXL.Stack.Meals.Desc>Tous les types de repas.</StackXXL.Stack.Meals.Desc>
+	
+	<StackXXL.Stack.BodyParts.Title>Parties du corps</StackXXL.Stack.BodyParts.Title>
+	<StackXXL.Stack.BodyParts.Desc>Parties du corps, organes et implants naturels et bioniques, pour personnes ou animaux.</StackXXL.Stack.BodyParts.Desc>
+	
+	<StackXXL.Stack.Others.Stackable.Title>Autres (Stackable)</StackXXL.Stack.Others.Stackable.Title>
+	<StackXXL.Stack.Others.Stackable.Desc>Cornes, défenses</StackXXL.Stack.Others.Stackable.Desc>
+		
+	<StackXXL.Stack.Others.Single.Title>Autres (Non stackable)</StackXXL.Stack.Others.Single.Title>
+	<StackXXL.Stack.Others.Single.Desc>(non utilisé)</StackXXL.Stack.Others.Single.Desc>
+</LanguageData>
